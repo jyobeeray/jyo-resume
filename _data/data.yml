@@ -32,27 +32,11 @@ sidebar:
         - idiom: Hindi
           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Results-oriented Cloud Engineer with 8+ years of experience in building and managing robust cloud infrastructure. Deep expertise in Linux distributions (RHEL, CentOS, Ubuntu), virtualization technologies (VMware, KVM), and container orchestration (Kubernetes). Skilled in scripting languages (Bash, Python, PowerShell) and configuration management tools (Ansible, Puppet). Proven ability to troubleshoot complex technical issues and implement innovative solutions.
 education:
     title: Education
     info:
