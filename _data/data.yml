@@ -35,11 +35,13 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: 
+    summary: |
       Results-oriented Cloud Engineer with 8+ years of experience in building and managing robust cloud infrastructure. Deep expertise in Linux distributions (RHEL, CentOS, Ubuntu), virtualization technologies (VMware, KVM), and container orchestration (Kubernetes). Skilled in scripting languages (Bash, Python, PowerShell) and configuration management tools (Ansible, Puppet). Proven ability to troubleshoot complex technical issues and implement innovative solutions.
+
+
 education:
     title: Education
-    info:
+    info: |
       - degree: MBA (Digital Marketing)
         university: Osmania University
         time: 2018 - 2021
@@ -135,7 +137,7 @@ experiences:
                                                                                                
 certifications: 
       title: certifications
-      list: |
+      info: |
 
        - name: Professional Cloud Security Engineer Certification
          start: 2024
@@ -174,7 +176,7 @@ certifications:
           end: 2023
           organization: Google
           certification id: 7e6f42687c5e4c63894583dfb180bad3
-          details: |
+     details: |
             A qualified expert who can describe how Google Cloud services and products may assist businesses in reaching their objectives is known as a Cloud Digital Leader. 
 
 projects:
@@ -247,7 +249,7 @@ publications:
 
 skills: |
     title: Skills &amp; Proficiency
-    List: |
+    Info: |
       - name: Public Clouds
           GCP (Google Cloud Platform)
           AWS (Amazon Web Services)
