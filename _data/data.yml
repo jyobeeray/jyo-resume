@@ -57,84 +57,120 @@ experiences:
         details: |
             - Responsible for handling customer queries / issues in GCP infrastructure. 
             - Independently handling security issues / implementations from GCP and sharing best practices to the customers. 
-            - AAssist the new joiners on the product knowledge along with the technical troubleshooting.
+            - Identifying potential threats and vulnerabilities on the customer environment and mitigating them accordingly with appropriate solutions.
+            - Assist the new joiners on the product knowledge along with the technical troubleshooting.
+            - Performing vulnerability assessments and security audits and implementing security patches and updates on the servers.
+            - Having experience with security tools and technologies such as security information and event management(SIEM) and security orchestration, automation, and response(SOAR) platforms.
+            - Updating and maintaining security documentation regarding the enforcing security policies and standards.
+            - Analysing the roprt cause of the issue with help of monitoring tools like CLoud logging and Monitoring, viceroy , Woodenshoes, PLX dashboard.
+            - Troubleshooted various issues, including VM configuration problems, disk, ssh connectivity, process overload,high CPU, stockouts, Sheilded VM, boot issues..etc.
             - Leading the PEX team for GCP operations and advising them on ways to improve the process to minimize the organization's costs on various initiatives.
+
             
       - role: Cloud Technical Lead
         time: July,22 - Nov,22
         company: Cognizant Technology & Solutions(CTS), Hyderabad
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Monitor production server health for various parameters, including CPU load, physical memory, swap memory, hard disk usage, HTTP service response time, and Puppet service health.
+            - Experience with VMware 6.5, VMware 7.0, and VMware vSphere.
+            - Experience with bug tracking tools such as JIRA, Remedy, Vector, and Buganizer.
+            - Experience with GKE, including Elasticsearch, Logging, Kibana, IAM, Security Command Center, and monitoring tools.
+            - Providing technical assistance to customers on Google Cloud Platform (GCP) services, including GCE, GKE, NSXT Manager, ELB, VPC, GCP Storage, Cloud Run, and IAM.
+            - Managed GKE node pools, including replacing nodes and scaling node pools from medium to large.
+            - Created and managed Linux and Windows virtual machine instances on Google Cloud Platform (GCP) using virtualization technology called GCVE.
+            - Performed cluster upgrades and managed NSXT Manager.
+            - Experience with storage services such as Virtual Storage Appliance (VSA) and Storage Area Network (SAN).
+            - Created and managed VPCs using VPC routing concepts.
+            - Managed GCP services, including GCVE, VMware 7.0 clusters, and GKE nodes.
+            - Monitored the health of various GCP services using Viceroy and Stackdriver.
+            - Troubleshooted various issues, including configuration problems, swap space, load balancing, host connectivity, process overload, SMTP, swap creation, mount points, and disk space.
+            - Resolved connectivity issues for VMs, including IAP, SSH, and gcloud shell.
+            - Participated in client meetings, huddle calls, hand overs, SOP transitions, and deployments.
+            - Installed, configured, and maintained various Linux and Windows server versions on GCP.
+            
+            
       - role: technical Analyst
         time: April,2020 - July,2022
         company: Infosys Ltd, Hyderabad
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Monitored production server health using Nagios for various parameters, including CPU load, physical memory, swap memory, hard disk usage, HTTP service response time, and Puppet service health.
+            - Experienced in using bug tracking tools like Jira, Metabug , Buagnizer.
+            - Experienced in working with Amazon Web Services (AWS) services, including EC2, ELB, VPC, S3, CloudFront, IAM, RDS, Route 53, CloudWatch, and SNS.
+            - Worked on Google Cloud Platform (GCP) projects, such as GTO CSATCK (GKE), ICDM Core (Cloud SQL), and ICDM Products (Dataproc).
+            - Scheduled jobs using crontab and created swap memory as needed in multi cloud environment.
+            - Provided support for over 4000 Linux and Windows servers in a data center environment, utilizing Zabbix, Alert Site, ASM, and Nagios for monitoring and alerting.
+            - Administered AWS services, including EC2, S3, performing tasks like resizing and restarting EC2 instances.
+            - Monitored health checks of VM's in AWS, GCP using CloudWatch, Grafana, and Nagios.
+            - Troubleshooted various server connectivity issues, including configuration errors, host unavailability using the server console called IMM (Integrated management Module).
+            - Installed and configured Apache2, Nginx, and Tomcat web servers, established connections to databases and other systems, and created domains.
+            - Maintained SLAs and achieved quality metrics in accordance with ITIL policies.
+            - Installed, configured, and remotely administered  Windows Server 2003, 2008, and 2012 servers.
+
+            
       - role: Senior systems Engineer 
         time: August,2016 - March,2020
         company: IBM Ltd, Bangalore
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
+            - Administering Physical server environment and various Cloud services, including GCVE, VMware 7.0 clusters, and GKE nodes.
+            - Addressing reactive and proactive issues timely, ensuring SLA adherence. Resolving problem tickets based on severity and providing root cause analysis.
+            - Responsible for remotely administering Windows Server 2003/2008/2012 servers within a domain environment.
+            - Configuring and managing RAID arrays based on specific requirements.
+            - Handling service requests related to infrastructure modifications, such as memory, hard disk, CPU increases, v2v migrations, and software installations.
+            - Assigning file and folder permissions and taking system backups.
+            - Working with ESX/ESXi servers, addressing issues like server downtime, datastore storage problems, VMotion, patching, snapshots, HA, and DRS. 
+            - Monitoring server health using tools like Nagios and Stackdriver on both physical server environment and vertual servers. 
+            - Maintaining vCenter vertual servers, creating virtual machine templates, and troubleshooting issues related to VMotion, snapshots, and clones.
+            - Performing various ESX server and virtual machine tasks, including VMotion, Storage VMotion, HA, DRS, cloning, and snapshotting. Migrating virtual machines between hosts using VMotion. Working with templates and clones to deploy virtual machines.
+            - Performing Server backups via TSM(Tivoli Storage Manager) using a dedicated Technology called NAS (Network Attached Storage).
+            - worked on the Informix database outage issues and troubleshooting them by restarting .
+            - Resolving problem tickets based on severity, providing justified Root Cause Analysis.
+            - Following ITIL processes for Incident and Change Management.
             
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+
+       - name: Professional Cloud Security Engineer Certification
+          start: 2024
+          end: 2026
+          organization: Google
+          Series id: 12880
+          credentialname: Google  
+      details: |
+            A Cloud Security Engineer allows organizations to design and implement secure workloads and infrastructure on Google Cloud. Through an understanding of security best practices and industry requirements, this individual designs, develops, and manages a secure solution by using Google security technologies.
+
+        - name: Professional Cloud Architect Certification
+          start: 2023
+          end: 2025
+          organization: Google
+          Series id: 84830
+          credentialname: Google  
+      details: |
+            Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
+      
+        - name: Associate Cloud Engineer Certification
+          start: 2023
+          end: 2026
+          organization: Google
+          Series id: 105768
+          credentialname: Google  
+      details: |
+            Associate Cloud Engineers deploy applications, monitor operations, and manage enterprise solutions. They use Google Cloud Console and the command-line interface to perform common platform-based tasks to maintain one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.
 
             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+       
+        - name:  Google Cloud Certified - Cloud Digital Leader
+          start: 2021
+          end: 2023
+          organization: Google
+          certification id: 7e6f42687c5e4c63894583dfb180bad3
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            A qualified expert who can describe how Google Cloud services and products may assist businesses in reaching their objectives is known as a Cloud Digital Leader. 
 
 projects:
     title: Projects
@@ -208,23 +244,71 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Public Clouds
+          GCP (Google Cloud Platform)
+          AWS (Amazon Web Services)
+    
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Private Cloud
+           VMware 6.5 & 7.0
+    
 
-      - name: Angular
-        level: 98%
+      - name: Container Orchestration:
+           GKE (Google Kubernetes Engine)
+           
+    
+      - name: CI/CD
+           Jenkins
 
-      - name: HTML5 & CSS
-        level: 95%
+           
+      - name: Storage and Networking
+           Google Cloud Storage
+           Cloud NAT
+           VPC (Virtual Private Cloud)
+           Autoscaling
+           VPC Service Control
+           NSXT Manager
+           Vmotion
+           HA & DRS
+           NAS (Network Attached Storage)
+    
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Security
+           IAM (Identity and Access Management)
+           Cloud Security
+           IAP (Identity Aware Proxy)
+           VPC SC(VPC Service control)
+           SCC (Security Command Center)
+           KMS(Key Management Service)
+           DLP(Data Loss Protection)
+           Secret Manager
+           OAuth
 
-      - name: Sketch & Photoshop
-        level: 60%
+
+      - name: Monitoring Tools
+         Nagios
+         Netcm
+         Alert Site
+         Grafana
+         Kibana
+         Viceroy
+         Woodenshoes
+         Stackdriver
+         Cloudwatch
+         
+           
+     - name: Service Management ITSM Tools
+         ServiceNow
+         Remedy
+         Vector 
+         Jira
+
+
+      - name: Operating Systems
+           RHEL (Red Hat Enterprise Linux)
+           CentOS
+           Ubuntu
+       
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
