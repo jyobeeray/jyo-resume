@@ -144,8 +144,9 @@ certifications:
          organization: Google
          Series id: 12880
          credentialname: Google  
-      details: |
-    A Cloud Security Engineer allows organizations to design and implement secure workloads and infrastructure on Google Cloud. Through an understanding of security best practices and industry requirements, this individual designs, develops, and manages a secure solution by using Google security technologies.
+      details:
+      link: "#"
+        tagline: "A Cloud Security Engineer allows organizations to design and implement secure workloads and infrastructure on Google Cloud. Through an understanding of security best practices and industry requirements, this individual designs, develops, and manages a secure solution by using Google security technologies."
 
      - name: Professional Cloud Architect Certification
           start: 2023
@@ -154,7 +155,8 @@ certifications:
           Series id: 84830
           credentialname: Google  
       details: |
-    Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
+      link: "#"
+        tagline: "Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives."
       
         - name: Associate Cloud Engineer Certification
           start: 2023
@@ -163,7 +165,8 @@ certifications:
           Series id: 105768
           credentialname: Google  
       details: |
-    Associate Cloud Engineers deploy applications, monitor operations, and manage enterprise solutions. They use Google Cloud Console and the command-line interface to perform common platform-based tasks to maintain one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.
+        link: "#"
+        tagline: "Associate Cloud Engineers deploy applications, monitor operations, and manage enterprise solutions. They use Google Cloud Console and the command-line interface to perform common platform-based tasks to maintain one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud."
 
             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
@@ -176,7 +179,8 @@ certifications:
           organization: Google
           certification id: 7e6f42687c5e4c63894583dfb180bad3
      details: |
-    A qualified expert who can describe how Google Cloud services and products may assist businesses in reaching their objectives is known as a Cloud Digital Leader. 
+    link: "#"
+        tagline: "A qualified expert who can describe how Google Cloud services and products may assist businesses in reaching their objectives is known as a Cloud Digital Leader."
 
 projects:
     title: Projects
