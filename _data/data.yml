@@ -128,12 +128,12 @@ experiences:
             - Maintaining vCenter vertual servers, creating virtual machine templates, and troubleshooting issues related to VMotion, snapshots, and clones.
             - Performing various ESX server and virtual machine tasks, including VMotion, Storage VMotion, HA, DRS, cloning, and snapshotting. Migrating virtual machines between hosts using VMotion. Working with templates and clones to deploy virtual machines.
             - Performing Server backups via TSM(Tivoli Storage Manager) using a dedicated Technology called NAS (Network Attached Storage).
-            - worked on the Informix database outage issues and troubleshooting them by restarting .
+            - worked on the Informix database outage issues and troubleshooting them by restarting.
             - Resolving problem tickets based on severity, providing justified Root Cause Analysis.
             - Following ITIL processes for Incident and Change Management.
             
                                                                                                
-certifications: |
+certifications: 
       title: Certifications
       list: |
 
