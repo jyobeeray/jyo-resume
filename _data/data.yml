@@ -137,10 +137,9 @@ experiences:
                                                                                                
 certifications: 
       title: certifications
-      info: |
      - name: Professional Cloud Security Engineer Certification
-         start: 2024
-         end: 2026
+         start: Nov 2024
+         end: Nov 2026
          organization: Google
          Series id: 12880
          credentialname: Google  
