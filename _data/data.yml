@@ -132,17 +132,17 @@ experiences:
             - Resolving problem tickets based on severity, providing justified Root Cause Analysis.
             - Following ITIL processes for Incident and Change Management.
             
-
-certifications:
+                                                                                               
+certifications: |
       title: Certifications
       list:
 
        - name: Professional Cloud Security Engineer Certification
-          start: 2024
-          end: 2026
-          organization: Google
-          Series id: 12880
-          credentialname: Google  
+         start: 2024
+         end: 2026
+         organization: Google
+         Series id: 12880
+         credentialname: Google  
       details: |
             A Cloud Security Engineer allows organizations to design and implement secure workloads and infrastructure on Google Cloud. Through an understanding of security best practices and industry requirements, this individual designs, develops, and manages a secure solution by using Google security technologies.
 
