@@ -243,7 +243,6 @@ publications:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
       - name: Public Clouds
           GCP (Google Cloud Platform)
           AWS (Amazon Web Services)
