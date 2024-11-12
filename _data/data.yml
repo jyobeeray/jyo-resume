@@ -35,7 +35,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary: 
       Results-oriented Cloud Engineer with 8+ years of experience in building and managing robust cloud infrastructure. Deep expertise in Linux distributions (RHEL, CentOS, Ubuntu), virtualization technologies (VMware, KVM), and container orchestration (Kubernetes). Skilled in scripting languages (Bash, Python, PowerShell) and configuration management tools (Ansible, Puppet). Proven ability to troubleshoot complex technical issues and implement innovative solutions.
 education:
     title: Education
@@ -134,7 +134,7 @@ experiences:
             
                                                                                                
 certifications: 
-      title: Certifications
+      title: certifications
       list: |
 
        - name: Professional Cloud Security Engineer Certification
