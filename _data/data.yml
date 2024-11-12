@@ -135,7 +135,7 @@ experiences:
                                                                                                
 certifications: |
       title: Certifications
-      list:
+      list: |
 
        - name: Professional Cloud Security Engineer Certification
          start: 2024
@@ -247,7 +247,7 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
+    List: |
       - name: Public Clouds
           GCP (Google Cloud Platform)
           AWS (Amazon Web Services)
@@ -257,7 +257,7 @@ skills:
            VMware 6.5 & 7.0
     
 
-      - name: Container Orchestration:
+      - name: Container Orchestration
            GKE (Google Kubernetes Engine)
            
     
