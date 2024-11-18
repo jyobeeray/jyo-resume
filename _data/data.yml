@@ -171,51 +171,53 @@ certifications:
           details: |
             A qualified expert who can describe how Google Cloud services and products may assist businesses in reaching their objectives is known as a Cloud Digital Leader.
 
-skills: |
+skills:
     title: Skills &amp; Proficiency
-    Info: |
-      - name: Public Clouds
-          GCP (Google Cloud Platform)
-          AWS (Amazon Web Services)
-    
 
+    toolset:
+      - name: Public Clouds
+        details: |
+         GCP (Google Cloud Platform)
+         AWS (Amazon Web Services)
+         
       - name: Private Cloud
-           VMware 6.5 & 7.0
-    
+        details: |
+         VMware 6.5 & 7.0
 
       - name: Container Orchestration
-           GKE (Google Kubernetes Engine)
-           
-    
-      - name: CI/CD
-           Jenkins
+        details: |
+         GKE (Google Kubernetes Engine)
 
-           
+      - name: CI/CD
+        details: |
+         Jenkins
+
       - name: Storage and Networking
-           Google Cloud Storage
-           Cloud NAT
-           VPC (Virtual Private Cloud)
-           Autoscaling
-           VPC Service Control
-           NSXT Manager
-           Vmotion
-           HA & DRS
-           NAS (Network Attached Storage)
-    
+        details: |
+         Google Cloud Storage
+         Cloud NAT
+         VPC (Virtual Private Cloud)
+         Autoscaling
+         VPC Service Control
+         NSXT Manager
+         Vmotion
+         HA & DRS
+         NAS (Network Attached Storage)
 
       - name: Security
-           IAM (Identity and Access Management)
-           Cloud Security
-           IAP (Identity Aware Proxy)
-           VPC SC(VPC Service control)
-           SCC (Security Command Center)
-           KMS(Key Management Service)
-           DLP(Data Loss Protection)
-           Secret Manager
-           OAuth
+        details: |
+         IAM (Identity and Access Management)
+         Cloud Security
+         IAP (Identity Aware Proxy)
+         VPC SC(VPC Service control)
+         SCC (Security Command Center)
+         KMS(Key Management Service)
+         DLP(Data Loss Protection)
+         Secret Manager
+         OAuth
 
-
-      - name: Monitoring Tools
+      - name: Monitoring Tools 
+        details: |
          Nagios
          Netcm
          Alert Site
@@ -225,20 +227,19 @@ skills: |
          Woodenshoes
          Stackdriver
          Cloudwatch
-         
-           
-     - name: Service Management ITSM Tools
-         ServiceNow
-         Remedy
-         Vector 
-         Jira
 
+       - name: Service Management ITSM Tools
+         details: |
+          ServiceNow
+          Remedy
+          Vector 
+          Jira
 
-      - name: Operating Systems
+        - name: Operating Systems
+          details: |
            RHEL (Red Hat Enterprise Linux)
            CentOS
            Ubuntu
-       
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Jyothirmayee Beeray</a>
