@@ -147,24 +147,15 @@ certifications:
           details: |
             A Cloud Security Engineer allows organizations to design and implement secure workloads and infrastructure on Google Cloud. Through an understanding of security best practices and industry requirements, this individual designs, develops, and manages a secure solution by using Google security technologies.
                 
-      title: certifications
-      info:
-      - name: Professional Cloud Security Engineer Certification
-            start:2024
-            end:2026
-            organization:Google
-            credentialname:Google  
-            details:|
-                - A Cloud Security Engineer allows organizations to design and implement secure workloads and infrastructure on Google Cloud. Through an understanding of security best practices and industry requirements, this individual designs, develops, and manages a secure solution by using Google security technologies.
                 
-                
-      - name: Professional Cloud Architect Certification
-          start:2023
-          end:2025
-          organization:Google
-          credentialname:Google  
-          details:|
-            - Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
+     - name: Professional Cloud Architect Certification
+          start: 2023
+          end: 2025
+          organization: Google
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
             
       - name: Associate Cloud Engineer Certification
              start:2023
