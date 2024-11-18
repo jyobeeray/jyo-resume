@@ -178,6 +178,32 @@ skills:
       - name: Public clouds - GCP (Google Cloud Platform) AWS (Amazon Web Services)
 
       - name: Container Orchestration
+        details: |
+           - VMware 6.5 & 7.0
+
+       - name: CI/CD
+         details: |
+            - Jenkins
+
+        - name: Storage and Networking
+          details: |
+             - Google Cloud Storage
+             - Cloud NAT
+             - VPC (Virtual Private Cloud)
+             - Autoscaling
+             - VPC Service Control
+             - NXST Manager
+             - Vmotion
+             - HA & DRS
+             - NAS (Network Attached Storage)
+
+        - name: Security
+
+        - name: Monitoring Tools
+
+        - name: Service Management ITSM Tools
+
+        - name: Operating Systems
       
       - name: Container Orchestration
         details: |
