@@ -178,17 +178,29 @@ skills:
     toolset:
       - name: Public clouds
         details: |
-         GCP (Google Cloud Platform)
-         AWS (Amazon Web services)
+           - GCP (Google Cloud Platform)
+           - AWS (Amazon Web services)
          
       - name: Container Orchestration
         details: |
-         VMware 6.5 & 7.0
+           - VMware 6.5 & 7.0
 
       - name: CI/CD
+        details: |
+           - Jenkins
 
       - name: Storage and Networking
-        level: 95%
+        details: |
+           - Google Cloud Storage
+           - Cloud NAT
+           - VPC (Virtual Private Cloud)
+           - Autoscaling
+           - VPC Service Control
+           - NSXT Manager
+           - Vmotion
+           - HA & DRS
+           - NAS (Network Attached Storage)
+
 
       - name: Security
         level: 85%
