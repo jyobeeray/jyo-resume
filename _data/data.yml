@@ -171,79 +171,28 @@ certifications:
           details: |
             A qualified expert who can describe how Google Cloud services and products may assist businesses in reaching their objectives is known as a Cloud Digital Leader.
 
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Public Clouds
-        level: 90%
-        skills:
-    
-      - name: Public Clouds
-        details: |
-         GCP (Google Cloud Platform)
-         AWS (Amazon Web Services)
-         
-      - name: Private Cloud
-        details: |
-         VMware 6.5 & 7.0
+      - name: Python & Django
+        level: 98%
 
-      - name: Container Orchestration
-        details: |
-         GKE (Google Kubernetes Engine)
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: CI/CD
-        details: |
-         Jenkins
+      - name: Angular
+        level: 98%
 
-      - name: Storage and Networking
-        details: |
-         Google Cloud Storage
-         Cloud NAT
-         VPC (Virtual Private Cloud)
-         Autoscaling
-         VPC Service Control
-         NSXT Manager
-         Vmotion
-         HA & DRS
-         NAS (Network Attached Storage)
+      - name: HTML5 & CSS
+        level: 95%
 
-      - name: Security
-        details: |
-         IAM (Identity and Access Management)
-         Cloud Security
-         IAP (Identity Aware Proxy)
-         VPC SC(VPC Service control)
-         SCC (Security Command Center)
-         KMS(Key Management Service)
-         DLP(Data Loss Protection)
-         Secret Manager
-         OAuth
+      - name: Ruby on Rails
+        level: 85%
 
-      - name: Monitoring Tools 
-        details: |
-         Nagios
-         Netcm
-         Alert Site
-         Grafana
-         Kibana
-         Viceroy
-         Woodenshoes
-         Stackdriver
-         Cloudwatch
-
-       - name: Service Management ITSM Tools
-         details: |
-          ServiceNow
-          Remedy
-          Vector 
-          Jira
-
-        - name: Operating Systems
-          details: |
-           RHEL (Red Hat Enterprise Linux)
-           CentOS
-           Ubuntu
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Jyothirmayee Beeray</a>
