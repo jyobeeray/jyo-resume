@@ -179,14 +179,17 @@ skills:
          
       - name: Container Orchestration
         details: |
+        
            - VMware 6.5 & 7.0
 
       - name: CI/CD
         details: |
+        
            - Jenkins
 
       - name: Storage and Networking
         details: |
+        
            - Google Cloud Storage
            - Cloud NAT
            - VPC (Virtual Private Cloud)
