@@ -158,19 +158,22 @@ certifications:
             Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
             
       - name: Associate Cloud Engineer Certification
-             start:2023
-             end:2026
-             organization:Google
-             credentialname:Google  
-             details:|
-              - Associate Cloud Engineers deploy applications, monitor operations, and manage enterprise solutions. They use Google Cloud Console and the command-line interface to perform common platform-based tasks to maintain one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.
-          
+          start: 2023
+          end: 2026
+          organization: Google
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Associate Cloud Engineers deploy applications, monitor operations, and manage enterprise solutions. They use Google Cloud Console and the command-line interface to perform common platform-based tasks to maintain one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.
+        
       - name: Google Cloud Certified - Cloud Digital Leader
-            start:2021
-            end:2023
-            organization:Google
-            details:|
-              - A qualified expert who can describe how Google Cloud services and products may assist businesses in reaching their objectives is known as a Cloud Digital Leader.
+          start: 2021
+          end: 2023
+          organization: Google
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            A qualified expert who can describe how Google Cloud services and products may assist businesses in reaching their objectives is known as a Cloud Digital Leader.
 
 skills: |
     title: Skills &amp; Proficiency
