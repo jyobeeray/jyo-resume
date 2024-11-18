@@ -174,11 +174,11 @@ certifications:
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
-      - name: Public clouds - GCP (Google Cloud Platform)  AWS (Amazon Web services)
-        level: 80%
-        
+      - name: Public clouds - GCP (Google Cloud Platform) AWS (Amazon Web Services)
+
+      - name: Container Orchestration
+      
       - name: Container Orchestration
         details: |
            - VMware 6.5 & 7.0
@@ -207,6 +207,6 @@ skills:
       - name: Service Management ITSM Tools
       
       - name: Operating Systems
-
+      
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Jyothirmayee Beeray</a>
