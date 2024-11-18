@@ -174,8 +174,7 @@ certifications:
 
 skills:
     title: Skills &amp; Proficiency
-
-    list:
+    info:
       - name: Public clouds
         details: |
            - GCP (Google Cloud Platform)
