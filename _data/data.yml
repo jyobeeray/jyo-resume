@@ -181,11 +181,11 @@ skills:
         details: |
            - VMware 6.5 & 7.0
 
-       - name: CI/CD
+      - name: CI/CD
          details: |
             - Jenkins
 
-        - name: Storage and Networking
+      - name: Storage and Networking
           details: |
              - Google Cloud Storage
              - Cloud NAT
@@ -197,13 +197,13 @@ skills:
              - HA & DRS
              - NAS (Network Attached Storage)
 
-        - name: Security
+      - name: Security
 
-        - name: Monitoring Tools
+      - name: Monitoring Tools
 
-        - name: Service Management ITSM Tools
+      - name: Service Management ITSM Tools
 
-        - name: Operating Systems
+      - name: Operating Systems
       
       - name: Container Orchestration
         details: |
