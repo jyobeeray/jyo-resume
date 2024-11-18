@@ -176,6 +176,10 @@ skills:
 
     toolset:
       - name: Public Clouds
+        level: 90%
+        skills:
+    
+      - name: Public Clouds
         details: |
          GCP (Google Cloud Platform)
          AWS (Amazon Web Services)
