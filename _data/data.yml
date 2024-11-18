@@ -43,13 +43,13 @@ career-profile:
 education:
     title: Education
     info: |
-      - degree: MBA (Digital Marketing)
-        university: Osmania University
-        time: 2018 - 2021
-        details: |
+    - degree: MBA (Digital Marketing)
+      university: Osmania University
+      time: 2018 - 2021
+      details: |
          - Pursued a Masters degree in Digital Marketing with a 75% aggregate.
         
-      - degree: Engineering [B.tech]
+      - degree: Engineering [EEE]
         university: Gokaraju Rangaraju Institute of Engineering & Technology [JNTU]
         time: 2012 - 2016
         details: |
