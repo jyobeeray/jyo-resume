@@ -182,19 +182,25 @@ skills:
          GCP (Google Cloud Platform)
          AWS (Amazon Web services)
          
-      - name: Javascript & jQuery
+      - name: Container Orchestration
         level: 98%
 
-      - name: Angular
+      - name: CI/CD
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Storage and Networking
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Security
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Monitoring Tools
+        level: 60%
+      
+      - name: Service Management ITSM Tools
+        level: 85%
+      
+      - name: Operating Systems
         level: 60%
 
 footer: >
