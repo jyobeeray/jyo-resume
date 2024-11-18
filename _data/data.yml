@@ -175,9 +175,7 @@ certifications:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: Public clouds
-        link: "#"
-        GCP (Google Cloud Platform)  AWS (Amazon Web services)
+      - name: Public clouds - GCP (Google Cloud Platform)  AWS (Amazon Web services)
          
       - name: Container Orchestration
         details: |
