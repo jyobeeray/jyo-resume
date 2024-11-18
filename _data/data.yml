@@ -176,7 +176,6 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: Public clouds - GCP (Google Cloud Platform)  AWS (Amazon Web services)
-         
       - name: Container Orchestration
         details: |
            - VMware 6.5 & 7.0
