@@ -177,7 +177,7 @@ skills:
     toolset:
       - name: Public clouds
         link: "#"
-        tagline: GCP (Google Cloud Platform)  AWS (Amazon Web services)
+        GCP (Google Cloud Platform)  AWS (Amazon Web services)
          
       - name: Container Orchestration
         details: |
