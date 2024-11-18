@@ -201,18 +201,13 @@ skills:
            - HA & DRS
            - NAS (Network Attached Storage)
 
-
       - name: Security
-        level: 85%
 
       - name: Monitoring Tools
-        level: 60%
       
       - name: Service Management ITSM Tools
-        level: 85%
       
       - name: Operating Systems
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Jyothirmayee Beeray</a>
