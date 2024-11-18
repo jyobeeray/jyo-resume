@@ -176,9 +176,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Public clouds
         level: 98%
-
+        details: |
+         GCP (Google Cloud Platform)
+         AWS (Amazon Web services)
+         
       - name: Javascript & jQuery
         level: 98%
 
