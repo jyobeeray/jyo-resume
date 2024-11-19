@@ -176,13 +176,17 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: Public clouds - GCP,AWS
+        details: |
+          - GCP
+          - AWS
+    
       - name: Private Cloud - VMware 6.5 & 7.0
         details: |
-         VMware 6.5 & 7.0
+           - VMware 6.5 & 7.0
 
       - name: Container Orchestration - GKE (Google Kubernetes Engine)
         details: |
-           - GKE (Google Kubernetes Engine)
+            - GKE (Google Kubernetes Engine)
 
       - name: CI/CD - Jenkins
         details: |
@@ -202,40 +206,40 @@ skills:
 
       - name: Security - IAM, Cloud Security, IAP, VPC SC, SCC, KMS, DLP, Secret Manager, OAuth
         details: |
-         IAM (Identity and Access Management)
-         Cloud Security
-         IAP (Identity Aware Proxy)
-         VPC SC(VPC Service control)
-         SCC (Security Command Center)
-         KMS(Key Management Service)
-         DLP(Data Loss Protection)
-         Secret Manager
-         OAuth
+           - IAM (Identity and Access Management)
+           - Cloud Security
+           - IAP (Identity Aware Proxy)
+           - VPC SC(VPC Service control)
+           - SCC (Security Command Center)
+           - KMS(Key Management Service)
+           - DLP(Data Loss Protection)
+           - Secret Manager
+           - OAuth
 
       - name: Monitoring Tools - Nagios, Netcom, Alert site,Grafana, Kibana, Viceroy, Woodenshoes, Stackdriver, Cloudwatch
          details: |
-          Nagios
-          Netcm
-          Alert Site
-          Grafana
-          Kibana
-          Viceroy
-          Woodenshoes
-          Stackdriver
-          Cloudwatch
+            - Nagios
+            -  Netcm
+            - Alert Site
+            - Grafana
+            - Kibana
+            - Viceroy
+            - Woodenshoes
+            - Stackdriver
+            - Cloudwatch
       
       - name: Service Management ITSM Tools - ServiceNow, Remedy, Vector, Jira, Metabug, Buganizer
         details: |
-          ServiceNow
-          Remedy
-          Vector 
-          Jira
+           - ServiceNow
+           - Remedy
+           - Vector 
+           - Jira
 
       - name: Operating Systems - RHEL , Centos, Unbuntu, Windows
         details: |
-           RHEL (Red Hat Enterprise Linux)
-           CentOS
-           Ubuntu
+           - RHEL (Red Hat Enterprise Linux)
+           - CentOS
+           - Ubuntu
       
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Jyothirmayee Beeray</a>
