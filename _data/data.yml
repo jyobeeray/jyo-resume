@@ -176,7 +176,7 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: Public clouds - GCP (Google Cloud Platform) AWS (Amazon Web Services)
-      - name: Private Cloud
+      - name: Private Cloud - VMware 6.5 & 7.0
         details: |
          VMware 6.5 & 7.0
 
@@ -190,7 +190,6 @@ skills:
 
       - name: Storage and Networking
         details: |
-        
            - Google Cloud Storage
            - Cloud NAT
            - VPC (Virtual Private Cloud)
@@ -201,7 +200,17 @@ skills:
            - HA & DRS
            - NAS (Network Attached Storage)
 
-      - name: Security
+      - name: Security - details: |
+         IAM (Identity and Access Management)
+         Cloud Security
+         IAP (Identity Aware Proxy)
+         VPC SC(VPC Service control)
+         SCC (Security Command Center)
+         KMS(Key Management Service)
+         DLP(Data Loss Protection)
+         Secret Manager
+         OAuth
+
 
       - name: Monitoring Tools
       
