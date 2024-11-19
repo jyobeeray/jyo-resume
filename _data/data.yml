@@ -217,7 +217,7 @@ skills:
            - OAuth
 
       - name: Monitoring Tools - Nagios, Netcom, Alert site,Grafana, Kibana, Viceroy, Woodenshoes, Stackdriver, Cloudwatch
-         details: |
+        details: |
             - Nagios
             -  Netcm
             - Alert Site
