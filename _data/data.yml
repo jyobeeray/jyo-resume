@@ -175,20 +175,20 @@ certifications:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: Public clouds - GCP (Google Cloud Platform) AWS (Amazon Web Services)
+      - name: Public clouds - GCP,AWS
       - name: Private Cloud - VMware 6.5 & 7.0
         details: |
          VMware 6.5 & 7.0
 
-      - name: Container Orchestration
+      - name: Container Orchestration - GKE (Google Kubernetes Engine)
         details: |
-           - VMware 6.5 & 7.0
+           - GKE (Google Kubernetes Engine)
 
-      - name: CI/CD
+      - name: CI/CD - Jenkins
         details: |
            - Jenkins
 
-      - name: Storage and Networking
+      - name: Storage and Networking - Google Cloud Storage, Cloud NAT, VPC, Autoscaling, Load Balancing, NSXT Manager, Vmotion, HA & DRS, NAS
         details: |
            - Google Cloud Storage
            - Cloud NAT
@@ -200,7 +200,8 @@ skills:
            - HA & DRS
            - NAS (Network Attached Storage)
 
-      - name: Security - details: |
+      - name: Security - IAM, Cloud Security, IAP, VPC SC, SCC, KMS, DLP, Secret Manager, OAuth
+        details: |
          IAM (Identity and Access Management)
          Cloud Security
          IAP (Identity Aware Proxy)
@@ -211,12 +212,30 @@ skills:
          Secret Manager
          OAuth
 
+      - name: Monitoring Tools - Nagios, Netcom, Alert site,Grafana, Kibana, Viceroy, Woodenshoes, Stackdriver, Cloudwatch
+         details: |
+          Nagios
+          Netcm
+          Alert Site
+          Grafana
+          Kibana
+          Viceroy
+          Woodenshoes
+          Stackdriver
+          Cloudwatch
+      
+      - name: Service Management ITSM Tools - ServiceNow, Remedy, Vector, Jira, Metabug, Buganizer
+        details: |
+          ServiceNow
+          Remedy
+          Vector 
+          Jira
 
-      - name: Monitoring Tools
-      
-      - name: Service Management ITSM Tools
-      
-      - name: Operating Systems
+      - name: Operating Systems - RHEL , Centos, Unbuntu, Windows
+        details: |
+           RHEL (Red Hat Enterprise Linux)
+           CentOS
+           Ubuntu
       
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Jyothirmayee Beeray</a>
