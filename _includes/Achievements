@@ -1,22 +1,22 @@
-{% assign oss = site.data.data.oss %}
-{% if oss %}
-<section class="section oss-section">
+{% assign achievements = site.data.data.achievements %}
+{% if achievements %}
+<section class="section achievements-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-box-open fa-stack-1x fa-inverse"></i>
     </span>
-    {{ oss.title }}
+    {{ achievements.title }}
   </h2>
 
-  {% if oss.intro %}
+  {% if achievements.intro %}
   <div class="intro">
-    <p>{{ oss.intro }}</p>
+    <p>{{ achievements.intro }}</p>
   </div>
   <!--//intro-->
   {% endif %}
 
-  {% for contribution in oss.contributions %}
+  {% for contribution in achievements.contributions %}
   <div class="item">
 
     <span class="project-title">
