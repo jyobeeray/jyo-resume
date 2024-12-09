@@ -20,6 +20,13 @@
       <li><a href="{{ achievements.link }}">{{ achievements.item }}</a></li>
       {% else %}
       <li>{{ achievements.item }}</li>
+      {% if experience.details %}
+    <div class="details">
+      {{ experience.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+     </div><!--//achievements-->
+    
       {% endif %}
 
     {% endfor %}
