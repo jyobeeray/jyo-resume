@@ -10,7 +10,8 @@
     {{ achievements.title }}
   </h2>
   
-    {% for achievements in achievements.info %}
+   <div class="list">
+    {% for achievements in achievements.list %}
     <div class="item">
 
       {% if achievements.link %}
