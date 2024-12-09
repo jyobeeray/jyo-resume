@@ -11,19 +11,6 @@
 
   {% for ach in achievements.info %}
   <div class="item">
-
-    <div class="meta">
-    <!--
-      <div class="upper-row">
-        <h3 class="job-title">{{ ach.role }}</h3>
-        <div class="time">{{ ach.time }}</div>
-      </div><!--//upper-row-->
-
-      <div class="company">{{ ach.company }}</div>
-    -->
-
-    </div><!--//meta-->
-
     {% if ach.details %}
     <div class="details">
       {{ ach.details | markdownify }}
