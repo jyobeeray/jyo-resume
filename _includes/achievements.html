@@ -10,27 +10,19 @@
     {{ achievements.title }}
   </h2>
   
-   <div class="info">
     {% for achievements in achievements.info %}
     <div class="item">
     <div class="meta">
-
-      {% if experience.details %}
-    <div class="details">
 
       {% if achievements.link %}
       <li><a href="{{ achievements.link }}">{{ achievements.item }}</a></li>
       {% else %}
       <li>{{ achievements.item }}</li>
-      {% endif %}
-      
-   </div><!--//details-->
-   </div><!--//item-->
+      {% endif
     {% endfor %}
   </ul>
 
 </div><!--//achievements-->
-
 
 
 {% endif %}
