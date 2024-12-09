@@ -10,11 +10,13 @@
     {{ achievements.title }}
   </h2>
   
-   <div class="list">
-    {% for achievements in achievements.list %}
-    <div class="details">
+   <div class="info">
+    {% for achievements in achievements.info %}
     <div class="item">
     <div class="meta">
+
+      {% if experience.details %}
+    <div class="details">
 
       {% if achievements.link %}
       <li><a href="{{ achievements.link }}">{{ achievements.item }}</a></li>
