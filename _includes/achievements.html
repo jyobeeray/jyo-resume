@@ -13,8 +13,9 @@
   
   <ul class="list-unstyled achievements-list">  
    {% for achievements in achievements.info %}
-
-      {% if achievements.details %}
+    <div class="item">
+      
+    
     <div class="details">
       {{ achievements.details | markdownify }}
     </div><!--//details-->
