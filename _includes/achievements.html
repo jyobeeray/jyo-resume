@@ -16,14 +16,14 @@
     <div class="item">
       
     
-      {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% if achievements.link %}
+      <li><a href="{{ achievements.link }}">{{ achievements.item }}</a></li>
       {% else %}
-      <li>{{ interest.item }}</li>
+      <li>{{ achievements.item }}</li>
       {% endif %}
 
     {% endfor %}
   </ul>
 
-</div><!--//interests-->
+</div><!--//achievements-->
 {% endif %}
