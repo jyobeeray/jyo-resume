@@ -15,11 +15,11 @@
    {% for achievements in achievements.list %}
     <div class="item">
 
-      {% if achievements.link %}
-      <li><a href="{{ achievements.link }}">{{ achievements.item }}</a></li>
-     {% else %}
-      <li>{{ achievements.item }}</li>
-      {% endif %}
+      {% if experience.details %}
+    <div class="details">
+      {{ experience.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
 
     {% endfor %}
   </ul>
