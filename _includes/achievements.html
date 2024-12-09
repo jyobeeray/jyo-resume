@@ -10,19 +10,19 @@
     {{ achievements.title }}
   </h2>
   
-    {% for achievements in achievements.info %}
+ <ul class="list-unstyled interests-list">  
+  {% for achievements in achievements.info %}
     <div class="item">
     <div class="meta">
 
       {% if achievements.link %}
       <li><a href="{{ achievements.link }}">{{ achievements.item }}</a></li>
-      {% else %}
-      <li>{{ achievements.item }}</li>
-      {% endif
+     {% else %}
+      <li>{{ interest.item }}</li>
+      {% endif %}
+
     {% endfor %}
   </ul>
 
-</div><!--//achievements-->
-
-
+</div><!--//interests-->
 {% endif %}
