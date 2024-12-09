@@ -9,7 +9,7 @@
     {{ achievements.title }}
   </h2>
 
-  {% if achievements.intro %}
+  {% for achievements.title in achievements.title.list %}
   <div class="intro">
     <p>{{ achievements.intro }}</p>
   </div>
