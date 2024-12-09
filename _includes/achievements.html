@@ -15,9 +15,9 @@
    {% for achievements in achievements.info %}
     <div class="item">
 
-      {% if experience.details %}
+      {% if achievements.details %}
     <div class="details">
-      {{ experience.details | markdownify }}
+      {{ achievements.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
