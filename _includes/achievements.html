@@ -1,40 +1,22 @@
-{% assign achievements = site.data.data.achievements %}
+{% assign achievements = site.data.data.sidebar.achievements %}
 {% if achievements %}
-<section class="section achievements-section">
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-box-open fa-stack-1x fa-inverse"></i>
-    </span>
+<div class="achievements-container container-block">
+
+  <h2 class="container-block-title">
     {{ achievements.title }}
   </h2>
 
-  {% for achievements.title in achievements.title.list %}
-  <div class="list">
-    <p>{{ achievements.list }}</p>
-  </div>
-  <!--//intro-->
-  {% endif %}
+  <ul class="list-unstyled achievements-list">
+    {% for achievements in achievements.info %}
 
-  {% for contribution in achievements.contributions %}
-  <div class="item">
-
-    <span class="project-title">
-      {% if contribution.link %}
-      <a href="{{ contribution.link }}" target="_blank">{{ contribution.title }}</a>
+      {% if achievements.link %}
+      <li><a href="{{ achievements.link }}">{{ achievements.item }}</a></li>
       {% else %}
-      {{ contribution.title }}
+      <li>{{ achievements.item }}</li>
       {% endif %}
-    </span>
 
-    {% if contribution.tagline %}
-    - <span class="project-tagline">{{ contribution.tagline }}</span>
-    {% endif %}
+    {% endfor %}
+  </ul>
 
-  </div>
-  <!--//item-->
-  {% endfor %}
-
-</section>
-<!--//section-->
+</div><!--//achievements-->
 {% endif %}
