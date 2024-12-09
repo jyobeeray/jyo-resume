@@ -63,13 +63,12 @@ experiences:
         details: |
             - Key member for handling customer queries / issues in GCP infrastructure. 
             - Closed 600+ cases on infrastructure and security relates issues in GCP.
-            - Independently handling security issues and sharing best practices to the customers. 
+            - Independently handling security issues and sharing best practices to the customers by analyzing the customer env using internal google tools. 
             - Identifying potential threats and vulnerabilities on the customer environment and mitigating them accordingly with appropriate solutions.
             - Assist the new joiners on the product knowledge along with the technical troubleshooting and successfully onboarded 2 new members into the team.
             - Having experience with security tools and technologies such as security information and event management(SIEM) and security orchestration, automation, and response(SOAR) platforms.
             - Updating and maintaining security documentation regarding the enforcing security policies and standards.
-            - Analysing the roprt cause of the issue with help of internal google tools.
-            - Troubleshooted various issues, including VM configuration problems, disk, ssh connectivity, process overload,high CPU, stockouts, Sheilded VM, boot issues..etc.
+            - Evaluate customer archictecture and recommended solutions that aligned with security best practices.
             - Being a lead of PEX team for GCP operations, able to identify valuable ideas and generated $1 million savings on the organization's costs.
 
             
