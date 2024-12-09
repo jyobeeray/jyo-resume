@@ -16,12 +16,14 @@
     <div class="item">
       
     
-    <div class="details">
-      {{ achievements.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
+      {% if interest.link %}
+      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% else %}
+      <li>{{ interest.item }}</li>
+      {% endif %}
 
+    {% endfor %}
   </ul>
 
-</div><!--//achievements-->
+</div><!--//interests-->
 {% endif %}
