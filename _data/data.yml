@@ -108,7 +108,7 @@ experiences:
             - Installed and configured Apache2, Nginx, and Tomcat web servers, established connections to databases and other systems, and domains.
             - Maintained SLAs and achieved quality metrics in accordance with ITIL policies.
             - Installed, organized, and remotely supervised  Windows Server 2003, 2008, and 2012 servers.
-            - I"Leveraged Jenkins, Prometheus, & Grafana to achieve 92% uptime by incorporating CI/CD with Docker & Kubernetes enabled frequent, automated deployments, minimizing downtime.
+            - I have leveraged Jenkins, Prometheus, & Grafana to achieve 92% uptime by incorporating CI/CD with Docker & Kubernetes enabled frequent, automated deployments, minimizing downtime.
 
             
       - role: Senior systems Engineer 
