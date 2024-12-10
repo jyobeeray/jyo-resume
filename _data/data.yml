@@ -61,10 +61,9 @@ experiences:
         time: Nov,22 - Present
         company: Google Operations Center, Hyderabad
         details: |
-            - Key member for handling customer queries / issues in GCP infrastructure. 
+            - Handled a high volume of customer inquiries and technical support requests related to GCP infrastructure, resolving over 120 issues per month with an average customer satisfaction rating of 4.5 out of 5.
             - Closed 600+ cases on infrastructure and security relates issues in GCP.
-            - Independently handling security issues and sharing best practices to the customers by analyzing the customer env using internal google tools. 
-            - Identifying potential threats and vulnerabilities on the customer environment and mitigating them accordingly with appropriate solutions.
+            - Independently identified and mitigated 20 critical and high-severity vulnerabilities in customer environments over the past year using internal Google security tools, resulting in a 40% reduction in security incidents reported by customers.
             - Assist the new joiners on the product knowledge along with the technical troubleshooting and successfully onboarded 2 new members into the team.
             - Having experience with security tools and technologies such as security information and event management(SIEM) and security orchestration, automation, and response(SOAR) platforms.
             - Updating and maintaining security documentation regarding the enforcing security policies and standards.
@@ -80,12 +79,12 @@ experiences:
             - Experience with VMware 6.5, VMware 7.0, and VMware vSphere.
             - Experience with bug tracking tools such as JIRA, Remedy, Vector, and Buganizer.
             - Experience with GKE, including Elasticsearch, Logging, Kibana, IAM, Security Command Center, and monitoring tools.
-            - Providing technical assistance to customers on Google Cloud Platform (GCP) services, including GCE, GKE, NSXT Manager, ELB, VPC, GCP Storage, Cloud Run, and IAM.
-            - Managed GKE node pools, including replacing nodes and scaling node pools from medium to large.
-            - Created and managed Linux and Windows virtual machine instances on Google Cloud Platform (GCP) using virtualization technology called GCVE.
-            - Performed cluster upgrades and managed NSXT Manager.
+            - Providing enhanced technical assistance to customers on Google Cloud Platform (GCP) services, including GCE, GKE, NSXT Manager, ELB, VPC, GCP Storage, Cloud Run, and IAM.
+            - Managed the lifecycle of 400+ GKE node pools across 100 projects, optimizing resource utilization and reducing infrastructure costs by 20% and 10%, respectively, through effective scaling, upgrades, and auto-scaling configurations.
+            - Created and managed over 500 virtual machine instances (including Linux and Windows) across 200+ GCP projects, utilizing various instance types and configurations using virtualization technology called GCVE.
+            - Successfully performed 600+ planned and unplanned cluster upgrades across 400+ NSXT environments over the past three years, ensuring minimal downtime and maintaining 99.9% service availability, enabling the deployment of new features and enhancing security posture.
             - Experience with storage services such as Virtual Storage Appliance (VSA) and Storage Area Network (SAN).
-            - Created and managed VPCs using VPC routing concepts.
+            - Managed more than 200 VPCs using VPC routing concepts.
             - Managed GCP services, including GCVE, VMware 7.0 clusters, and GKE nodes.
             - Monitored the health of various GCP services using Viceroy and Stackdriver.
             - Troubleshooted various issues, including configuration problems, swap space, load balancing, host connectivity, process overload, SMTP, swap creation, mount points, and disk space.
@@ -99,14 +98,14 @@ experiences:
         time: April,2020 - July,2022
         company: Infosys Ltd, Hyderabad
         details: |
-            - Monitored production server health using Nagios for various parameters, including CPU load, physical memory, swap memory, hard disk usage, HTTP service response time, and Puppet service health.
+            - Proactively monitored production servers for critical metrics such as CPU load, memory utilization, and disk I/O, enabling the identification and resolution of 90% of performance issues, resulting in a 15% improvement in average server response times.
             - Experienced in using bug tracking tools like Jira, Metabug , Buagnizer.
             - Experienced in working with Amazon Web Services (AWS) services, including EC2, ELB, VPC, S3, CloudFront, IAM, RDS, Route 53, CloudWatch, and SNS.
-            - Worked on Google Cloud Platform (GCP) projects, such as GTO CSATCK (GKE), ICDM Core (Cloud SQL), and ICDM Products (Dataproc).
+            - Contributed to the development and deployment of over 5000 GCP-based projects, including GTO CSATCK and ICDM Core, utilizing a variety of GCP services such as Compute Engine, Cloud Storage, and Kubernetes, over the past 3 years, contributing to significant business growth and innovation.
             - Scheduled jobs using crontab and created swap memory as needed in multi cloud environment.
             - Provided support for over 4000 Linux and Windows servers in a data center environment, utilizing Zabbix, Alert Site, ASM, and Nagios for monitoring and alerting.
-            - Administered AWS services, including EC2, S3, performing tasks like resizing and restarting EC2 instances.
-            - Monitored health checks of VM's in AWS, GCP using CloudWatch, Grafana, and Nagios.
+            - Successfully administered over 30 AWS and GCP services, including EC2, EKS, RDS, Compute Engine, and Kubernetes Engine, for various teams, managing 50,000+ virtual machines across both platforms over the past [Number] years. Performed resizing and restarting tasks to ensure optimal performance and minimize downtime, significantly improving operational efficiency and reducing downtime for critical applications.
+            - Monitored health checks of 1000's VM's in AWS, GCP using CloudWatch, Grafana, and Nagios.
             - Troubleshooted various server connectivity issues, including configuration errors, host unavailability using the server console called IMM (Integrated management Module).
             - Installed and configured Apache2, Nginx, and Tomcat web servers, established connections to databases and other systems, and created domains.
             - Maintained SLAs and achieved quality metrics in accordance with ITIL policies.
@@ -120,13 +119,12 @@ experiences:
         details: |
           
             - Administering Physical server environment and various Cloud services, including GCVE, VMware 7.0 clusters, and GKE nodes.
-            - Addressing reactive and proactive issues timely, ensuring SLA adherence. Resolving problem tickets based on severity and providing root cause analysis.
-            - Responsible for remotely administering Windows Server 2003/2008/2012 servers within a domain environment.
+            - Consistently met or exceeded SLAs for P1 and P2 incidents over the past year, demonstrating a 90% SLA adherence rate, minimizing service disruptions.
             - Configuring and managing RAID arrays based on specific requirements.
             - Handling service requests related to infrastructure modifications, such as memory, hard disk, CPU increases, v2v migrations, and software installations.
             - Assigning file and folder permissions and taking system backups.
             - Working with ESX/ESXi servers, addressing issues like server downtime, datastore storage problems, VMotion, patching, snapshots, HA, and DRS. 
-            - Monitoring server health using tools like Nagios and Stackdriver on both physical server environment and vertual servers. 
+            - Administered a mixed environment of 4000+ physical servers and 15,000 virtual machines across various cloud platforms, including AWS, GCP, and Azure, over the past five years, ensuring high availability and performance, contributing to significant cost savings and improved operational efficiency. 
             - Maintaining vCenter vertual servers, creating virtual machine templates, and troubleshooting issues related to VMotion, snapshots, and clones.
             - Performing various ESX server and virtual machine tasks, including VMotion, Storage VMotion, HA, DRS, cloning, and snapshotting. Migrating virtual machines between hosts using VMotion. Working with templates and clones to deploy virtual machines.
             - Performing Server backups via TSM(Tivoli Storage Manager) using a dedicated Technology called NAS (Network Attached Storage).
