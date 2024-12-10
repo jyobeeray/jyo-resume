@@ -81,7 +81,7 @@ experiences:
             - Experience with GKE, including Elasticsearch, Logging, Kibana, IAM, Security Command Center, and monitoring tools.
             - Providing enhanced technical assistance to customers on Google Cloud Platform (GCP) services, including GCE, GKE, NSXT Manager, ELB, VPC, GCP Storage, Cloud Run, and IAM.
             - Managed the lifecycle of 400+ GKE node pools across 100 projects, optimizing resource utilization and reducing infrastructure costs by 20% and 10%, respectively, through effective scaling, upgrades, and auto-scaling configurations.
-            - Created and managed over 500 virtual machine instances (including Linux and Windows) across 200+ GCP projects, utilizing various instance types and configurations using virtualization technology called GCVE.
+            - Established and managed over 500 virtual machine instances (including Linux and Windows) across 200+ GCP projects, utilizing various instance types and configurations using virtualization technology called GCVE.
             - Successfully performed 600+ planned and unplanned cluster upgrades across 400+ NSXT environments over the past three years, ensuring minimal downtime and maintaining 99.9% service availability, enabling the deployment of new features and enhancing security posture.
             - Experience with storage services such as Virtual Storage Appliance (VSA) and Storage Area Network (SAN).
             - Managed more than 200 VPCs using VPC routing concepts.
@@ -90,15 +90,14 @@ experiences:
             - Troubleshooted various issues, including configuration problems, swap space, load balancing, host connectivity, process overload, SMTP, swap creation, mount points, and disk space.
             - Resolved connectivity issues for VMs, including IAP, SSH, and gcloud shell.
             - Participated in client meetings, huddle calls, hand overs, SOP transitions, and deployments.
-            - Installed, configured, and maintained various Linux and Windows server versions on GCP.
-            - Maintained 98% application uptime on the production environment by resolving critical incidents within the agreed-upon SLA of 1 hour in 99% of cases. This resulted in an average downtime of less than 15 minutes per incident, minimizing revenue loss by an estimated $X per year and significantly enhancing customer satisfaction.
+            - Supported on keeping the application uptime to 98% on the production environment by resolving critical incidents within the agreed-upon SLA of 1 hour in 99% of cases. This resulted in an average downtime of less than 15 minutes per incident, minimizing revenue loss by an estimated $X per year and significantly enhancing customer satisfaction.
             
             
       - role: Technical Analyst
         time: April,2020 - July,2022
         company: Infosys Ltd, Hyderabad
         details: |
-            - Proactively monitored production servers for critical metrics such as CPU load, memory utilization, and disk I/O, enabling the identification and resolution of 90% of performance issues, resulting in a 15% improvement in average server response times.
+            - Proactively observing the production servers for critical metrics such as CPU load, memory utilization, and disk I/O, enabling the identification and resolution of 90% of performance issues, resulting in a 15% improvement in average server response times.
             - Experienced in using bug tracking tools like Jira, Metabug , Buagnizer.
             - Experienced in working with Amazon Web Services (AWS) services, including EC2, ELB, VPC, S3, CloudFront, IAM, RDS, Route 53, CloudWatch, and SNS.
             - Contributed to the development and deployment of over 5000 GCP-based projects, including GTO CSATCK and ICDM Core, utilizing a variety of GCP services such as Compute Engine, Cloud Storage, and Kubernetes, over the past 3 years, contributing to significant business growth and innovation.
@@ -107,9 +106,9 @@ experiences:
             - Successfully administered over 30 AWS and GCP services, including EC2, EKS, RDS, Compute Engine, and Kubernetes Engine, for various teams, managing 50,000+ virtual machines across both platforms over the past [Number] years. Performed resizing and restarting tasks to ensure optimal performance and minimize downtime, significantly improving operational efficiency and reducing downtime for critical applications.
             - Monitored health checks of 1000's VM's in AWS, GCP using CloudWatch, Grafana, and Nagios.
             - Troubleshooted various server connectivity issues, including configuration errors, host unavailability using the server console called IMM (Integrated management Module).
-            - Installed and configured Apache2, Nginx, and Tomcat web servers, established connections to databases and other systems, and created domains.
+            - Installed and configured Apache2, Nginx, and Tomcat web servers, established connections to databases and other systems, and domains.
             - Maintained SLAs and achieved quality metrics in accordance with ITIL policies.
-            - Installed, configured, and remotely administered  Windows Server 2003, 2008, and 2012 servers.
+            - Installed, organized, and remotely administered  Windows Server 2003, 2008, and 2012 servers.
             - Implemented a robust monitoring system using Jenkins, Prometheus, and Grafana to achieve an average system uptime of 92% over the year. This was accomplished by leveraging a CI/CD pipeline incorporating Docker and Kubernetes, enabling frequent deployments, thereby minimizing downtime and ensuring a high level of service availability.
 
             
@@ -131,7 +130,7 @@ experiences:
             - worked on the Informix database outage issues and troubleshooting them by restarting.
             - Resolving problem tickets based on severity, providing justified Root Cause Analysis.
             - Following ITIL processes for Incident and Change Management.
-            - Successfully managed the operations of a high-volume server environment exceeding 4800 servers, achieving an average of 98% uptime across all servers over the past year, resulting in minimal service disruptions for millions of users.
+            - Successfully directed the operations of a high-volume server environment exceeding 4800 servers, achieving an average of 98% uptime across all servers over the past year, resulting in minimal service disruptions for millions of users.
             
                                                                                                
 certifications:
@@ -177,7 +176,7 @@ achievements:
           - Acquired rewards from the Process of Excellence team for being the best PEX volunteer during 2024.
           - Awarded the touch-stone award as a gesture of appreciation for my performance in 2023.
           - Achieved the Top Performer award among the team with Infosys in 2022.
-          - Managed a team of six to create award-winning ad campaigns with Infosys during 2021.
+          - Supervised a team of six to create award-winning ad campaigns with Infosys during 2021.
           - Received the Best performer award for the year from IBM on 2019.
           
 
