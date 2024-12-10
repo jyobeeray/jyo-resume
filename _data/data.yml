@@ -92,6 +92,7 @@ experiences:
             - Resolved connectivity issues for VMs, including IAP, SSH, and gcloud shell.
             - Participated in client meetings, huddle calls, hand overs, SOP transitions, and deployments.
             - Installed, configured, and maintained various Linux and Windows server versions on GCP.
+            - Maintained 98% application uptime on the production environment by resolving critical incidents within the agreed-upon SLA of 1 hour in 99% of cases. This resulted in an average downtime of less than 15 minutes per incident, minimizing revenue loss by an estimated $X per year and significantly enhancing customer satisfaction.
             
             
       - role: Technical Analyst
@@ -110,6 +111,7 @@ experiences:
             - Installed and configured Apache2, Nginx, and Tomcat web servers, established connections to databases and other systems, and created domains.
             - Maintained SLAs and achieved quality metrics in accordance with ITIL policies.
             - Installed, configured, and remotely administered  Windows Server 2003, 2008, and 2012 servers.
+            - Implemented and maintained a robust monitoring system using Jenkins, Prometheus, and Grafana to achieve an average application uptime of 92% over the year. This was accomplished by leveraging a CI/CD pipeline incorporating Docker and Kubernetes, enabling frequent deployments, thereby minimizing downtime and ensuring a high level of service availability.
 
             
       - role: Senior systems Engineer 
@@ -131,6 +133,7 @@ experiences:
             - worked on the Informix database outage issues and troubleshooting them by restarting.
             - Resolving problem tickets based on severity, providing justified Root Cause Analysis.
             - Following ITIL processes for Incident and Change Management.
+            - Successfully managed the operations of a high-volume server environment exceeding 4800 servers, achieving an average of 98% uptime across all servers over the past year, resulting in minimal service disruptions for millions of users.
             
                                                                                                
 certifications:
