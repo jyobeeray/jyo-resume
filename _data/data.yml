@@ -61,11 +61,11 @@ experiences:
         time: Nov,22 - Present
         company: Google Operations Center, Hyderabad
         details: |
-            - Handled a high volume of customer inquiries and technical support requests related to GCP infrastructure, resolving over 120 issues per month with an average customer satisfaction rating of 4.5 out of 5.
+            - Resolved 120+ GCP inquiries monthly, achieving 4.5/5 customer satisfaction. Improved efficiency by 10% through process improvements
             - Closed 600+ cases on infrastructure and security relates issues in GCP.
-            - Independently identified and mitigated 20 critical and high-severity vulnerabilities in customer environments over the past year using internal Google security tools, resulting in a 40% reduction in security incidents reported by customers.
+            - Identified & mitigated 20 critical vulnerabilities using Google security tools, reducing customer-reported security incidents by 40% within a year.
             - Assist the new joiners on the product knowledge along with the technical troubleshooting and successfully onboarded 2 new members into the team.
-            - Having experience with security tools and technologies such as security information and event management(SIEM) and security orchestration, automation, and response(SOAR) platforms.
+            - Experienced with SIEM & SOAR platforms, proficient in security incident response and threat analysis.
             - Updating and maintaining security documentation regarding the enforcing security policies and standards.
             - Evaluate customer archictecture and recommended solutions that aligned with security best practices.
             - Being a lead of PEX team for GCP operations, able to identify valuable ideas and generated $1 million savings on the organization's costs.
@@ -75,41 +75,40 @@ experiences:
         time: July,22 - Nov,22
         company: Cognizant Technology & Solutions(CTS), Hyderabad
         details: |
-            - Monitor production server health for various parameters, including CPU load, physical memory, swap memory, hard disk usage, HTTP service response time, and Puppet service health.
+            - Monitored production servers for CPU, memory, disk usage, HTTP response time, and service health, ensuring optimal performance of 90% and high availability.
             - Experience with VMware 6.5, VMware 7.0, and VMware vSphere.
             - Experience with bug tracking tools such as JIRA, Remedy, Vector, and Buganizer.
             - Experience with GKE, including Elasticsearch, Logging, Kibana, IAM, Security Command Center, and monitoring tools.
             - Providing enhanced technical assistance to customers on Google Cloud Platform (GCP) services, including GCE, GKE, NSXT Manager, ELB, VPC, GCP Storage, Cloud Run, and IAM.
-            - Managed the lifecycle of 400+ GKE node pools across 100 projects, optimizing resource utilization and reducing infrastructure costs by 20% and 10%, respectively, through effective scaling, upgrades, and auto-scaling configurations.
-            - Established and managed over 500 virtual machine instances (including Linux and Windows) across 200+ GCP projects, utilizing various instance types and configurations using virtualization technology called GCVE.
-            - Successfully performed 600+ planned and unplanned cluster upgrades across 400+ NSXT environments over the past three years, ensuring minimal downtime and maintaining 99.9% service availability, enabling the deployment of new features and enhancing security posture.
-            - Experience with storage services such as Virtual Storage Appliance (VSA) and Storage Area Network (SAN).
-            - Managed more than 200 VPCs using VPC routing concepts.
-            - Managed GCP services, including GCVE, VMware 7.0 clusters, and GKE nodes.
+            - Managed the lifecycle of 400+ GKE node pools across 100 projects. Optimized resource usage & reduced costs by 20% & 10%, respectively, through scaling, upgrades, and auto-scaling.
+            - Established & managed 500+ VMs (Linux/Windows) across 200+ GCP projects. Utilized GCVE & diverse instance types/configs for optimized resource allocation.
+            - Successfully upgraded 600+ planned and unplanned cluster upgrades  across 400+ environments, minimizing downtime with 99.9% availability.
+            - Experience with 2 diffrent types of storage services such as Virtual Storage Appliance (VSA) and Storage Area Network (SAN) and TSM.
+            - Administered GCP services, including GCVE, VMware 7.0 clusters, and GKE nodes.
             - Monitored the health of various GCP services using Viceroy and Stackdriver.
-            - Troubleshooted various issues, including configuration problems, swap space, load balancing, host connectivity, process overload, SMTP, swap creation, mount points, and disk space.
+            - Troubleshooted diverse issues like configuration, load balancing, host connectivity, process overload, swap creation, mount points, disk space."
             - Resolved connectivity issues for VMs, including IAP, SSH, and gcloud shell.
             - Participated in client meetings, huddle calls, hand overs, SOP transitions, and deployments.
-            - Supported on keeping the application uptime to 98% on the production environment by resolving critical incidents within the agreed-upon SLA of 1 hour in 99% of cases. This resulted in an average downtime of less than 15 minutes per incident, minimizing revenue loss by an estimated $X per year and significantly enhancing customer satisfaction.
+            - Secured 98% uptime and resolved 99% of issues within the 1-hour SLA. Average downtime is lesser than 15 minutes, minimizing revenue loss.
             
             
       - role: Technical Analyst
         time: April,2020 - July,2022
         company: Infosys Ltd, Hyderabad
         details: |
-            - Proactively observing the production servers for critical metrics such as CPU load, memory utilization, and disk I/O, enabling the identification and resolution of 90% of performance issues, resulting in a 15% improvement in average server response times.
+            - Examined CPU, memory, and disk I/O on production servers. 90% of performance issues were identified and rectified, with a 15% improvement in average server response times.
             - Experienced in using bug tracking tools like Jira, Metabug , Buagnizer.
             - Experienced in working with Amazon Web Services (AWS) services, including EC2, ELB, VPC, S3, CloudFront, IAM, RDS, Route 53, CloudWatch, and SNS.
-            - Contributed to the development and deployment of over 5000 GCP-based projects, including GTO CSATCK and ICDM Core, utilizing a variety of GCP services such as Compute Engine, Cloud Storage, and Kubernetes, over the past 3 years, contributing to significant business growth and innovation.
+            - Contributed to the development of 5,000+ GCP projects (GTO CSATCK, ICDM Core) using Compute Engine, Cloud Storage, & Kubernetes over 3 years, driving business growth & innovation.
             - Scheduled jobs using crontab and created swap memory as needed in multi cloud environment.
             - Provided support for over 4000 Linux and Windows servers in a data center environment, utilizing Zabbix, Alert Site, ASM, and Nagios for monitoring and alerting.
-            - Successfully administered over 30 AWS and GCP services, including EC2, EKS, RDS, Compute Engine, and Kubernetes Engine, for various teams, managing 50,000+ virtual machines across both platforms over the past [Number] years. Performed resizing and restarting tasks to ensure optimal performance and minimize downtime, significantly improving operational efficiency and reducing downtime for critical applications.
+            - Successfully governed 30+ AWS/GCP services (EC2, GKE, IAM, etc.) for over 50k VMs, maximizing performance and minimizing downtime. Critical programs now function more efficiently.
             - Monitored health checks of 1000's VM's in AWS, GCP using CloudWatch, Grafana, and Nagios.
             - Troubleshooted various server connectivity issues, including configuration errors, host unavailability using the server console called IMM (Integrated management Module).
             - Installed and configured Apache2, Nginx, and Tomcat web servers, established connections to databases and other systems, and domains.
             - Maintained SLAs and achieved quality metrics in accordance with ITIL policies.
-            - Installed, organized, and remotely administered  Windows Server 2003, 2008, and 2012 servers.
-            - Implemented a robust monitoring system using Jenkins, Prometheus, and Grafana to achieve an average system uptime of 92% over the year. This was accomplished by leveraging a CI/CD pipeline incorporating Docker and Kubernetes, enabling frequent deployments, thereby minimizing downtime and ensuring a high level of service availability.
+            - Installed, organized, and remotely supervised  Windows Server 2003, 2008, and 2012 servers.
+            - I"Leveraged Jenkins, Prometheus, & Grafana to achieve 92% uptime by incorporating CI/CD with Docker & Kubernetes enabled frequent, automated deployments, minimizing downtime.
 
             
       - role: Senior systems Engineer 
@@ -123,14 +122,15 @@ experiences:
             - Handling service requests related to infrastructure modifications, such as memory, hard disk, CPU increases, v2v migrations, and software installations.
             - Assigning file and folder permissions and taking system backups.
             - Working with ESX/ESXi servers, addressing issues like server downtime, datastore storage problems, VMotion, patching, snapshots, HA, and DRS. 
-            - Administered a mixed environment of 4000+ physical servers and 15,000 virtual machines across various cloud platforms, including AWS, GCP, and Azure, over the past five years, ensuring high availability and performance, contributing to significant cost savings and improved operational efficiency. 
+            - Managed 4000+ physical and 15000+ virtual servers across AWS & GCP for 3 years, ensuring high availability, driving cost savings, and enhancing operational efficiency.
             - Maintaining vCenter vertual servers, creating virtual machine templates, and troubleshooting issues related to VMotion, snapshots, and clones.
-            - Performing various ESX server and virtual machine tasks, including VMotion, Storage VMotion, HA, DRS, cloning, and snapshotting. Migrating virtual machines between hosts using VMotion. Working with templates and clones to deploy virtual machines.
+            - Orchestrated ESX servers, including VMotion, Storage VMotion, HA, DRS, cloning, and snapshotting. 
+            - Migrated virtual machines by VMotion. Used templates and clones for VM deployment.
             - Performing Server backups via TSM(Tivoli Storage Manager) using a dedicated Technology called NAS (Network Attached Storage).
             - worked on the Informix database outage issues and troubleshooting them by restarting.
             - Resolving problem tickets based on severity, providing justified Root Cause Analysis.
             - Following ITIL processes for Incident and Change Management.
-            - Successfully directed the operations of a high-volume server environment exceeding 4800 servers, achieving an average of 98% uptime across all servers over the past year, resulting in minimal service disruptions for millions of users.
+            - Handled over 4800 servers, achieving 98% uptime. Millions of consumers saw little disruptions. 
             
                                                                                                
 certifications:
