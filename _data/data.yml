@@ -75,21 +75,21 @@ experiences:
         time: July,22 - Nov,22
         company: Cognizant Technology & Solutions(CTS), Hyderabad
         details: |
-            - Monitored production servers for CPU, memory, disk usage, HTTP response time, and service health, ensuring optimal performance of 90% and high availability.
+            - Monitored production servers for CPU, memory, disk usage, HTTP response time, and service health, ensuring an optimal performance of 90% and high availability.
             - Experience with VMware 6.5, VMware 7.0, and VMware vSphere.
             - Successfully utilized bug tracking tools such as JIRA, Remedy, Vector, and Buganizer to track and resolve over 220 bugs and software defects, contributing to 7% reduction in overall bug count.
             - Experience with GKE, including Elasticsearch, Logging, Kibana, IAM, Security Command Center, and monitoring tools.
-            - Delivered technical assistance for customers using GCP services like as GCE, GKE, NSXT Manager, GCP Storage, and IAM, with an average customer satisfaction rating of 4 out of 5.
+            - Delivered technical assistance for customers using GCP services like GCE, GKE, NSXT Manager, GCP Storage, and IAM, with an average customer satisfaction rating of 4 out of 5.
             - Administered the lifecycle of 400+ GKE node pools across 100 projects. Optimized resource usage & reduced costs by 20% & 10%, respectively, through scaling, upgrades, and auto-scaling.
             - Established & superintended 500+ VMs (Linux/Windows) across 200+ GCP projects. Utilized GCVE & diverse instance types/configs for optimized resource allocation.
             - Successfully upgraded 600+ planned and unplanned cluster upgrades  across 400+ environments, minimizing downtime with 99.9% availability.
-            - Experience with 2 diffrent types of storage services such as Virtual Storage Appliance (VSA) and Storage Area Network (SAN) and TSM.
+            - Experience with 2 different types of storage services such as Virtual Storage Appliance (VSA) and Storage Area Network (SAN) and TSM.
             - Administered GCP services, including GCVE, VMware 7.0 clusters, and GKE nodes.
             - Monitored the health of various GCP services using Viceroy and Stackdriver.
             - Troubleshooted diverse issues like configuration, load balancing, host connectivity, process overload, swap creation, mount points, disk space."
             - Resolved connectivity issues for VMs, including IAP, SSH, and gcloud shell.
             - Participated in client meetings, huddle calls, hand overs, SOP transitions, and deployments.
-            - Secured 98% uptime and resolved 99% of issues within the 1-hour SLA. Average downtime is lesser than 15 minutes, minimizing revenue loss.
+            - Secured 98% uptime and resolved 99% of issues within the 1-hour SLA. Average downtime is less than 15 minutes, minimizing revenue loss.
             
             
       - role: Technical Analyst
