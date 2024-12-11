@@ -123,7 +123,7 @@ experiences:
             - Assigning file and folder permissions and taking system backups.
             - Aided expertise in VMware vSphere by effectively managing ESX/ESXi servers, addressing critical issues like server downtime, datastore storage problems, VMotion, snapshots, HA, and DRS.
             - Operated 4000+ physical and 15000+ virtual servers across AWS & GCP for 3 years, ensuring high availability, driving cost savings, and enhancing operational efficiency.
-            - Maintaining vCenter vertual servers, creating virtual machine templates, and troubleshooting issues related to VMotion, snapshots, and clones.
+            - Maintaining vCenter virtual servers, creating virtual machine templates, and troubleshooting issues related to VMotion, snapshots, and clones.
             - Orchestrated ESX servers, including VMotion, Storage VMotion, HA, DRS, cloning, and snapshotting. 
             - Migrated virtual machines by VMotion. Used templates and clones for VM deployment.
             - Performing Server backups via TSM(Tivoli Storage Manager) using a dedicated Technology called NAS (Network Attached Storage).
