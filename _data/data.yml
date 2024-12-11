@@ -116,7 +116,7 @@ experiences:
         company: IBM Ltd, Bangalore
         details: |
           
-            - Effectively overseen a hybrid infrastructure comprising 6000+ physical servers, virtual machines on VMware 7.0 clusters, and GKE nodes, guaranteeing high availability and performance over 60 critical applications.
+            - Effectively operated a hybrid infrastructure comprising 6000+ physical servers, virtual machines on VMware 7.0 clusters, and GKE nodes, guaranteeing high availability and performance over 60 critical applications.
             - Consistently met or exceeded SLAs for P1 and P2 incidents over the past year, demonstrating a 90% SLA adherence rate, minimizing service disruptions.
             - Configuring and managing RAID arrays based on specific requirements.
             - Handling service requests related to infrastructure modifications, such as memory, hard disk, CPU increases, v2v migrations, and software installations.
