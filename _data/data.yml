@@ -97,13 +97,13 @@ experiences:
         company: Infosys Ltd, Hyderabad
         details: |
             - Examined CPU, memory, and disk I/O on production servers. 90% of performance issues were identified and rectified, with a 15% improvement in average server response times.
-            - Experienced in using bug tracking tools like Jira, Metabug , Buagnizer.
+            - Experienced in using bug tracking tools like Jira, Metabug , Buganizer.
             - Architected and deployed high-availability cloud systems utilizing key AWS and GCP services, including EC2, ECS, Lambda, S3, Cloud SQL, and Kubernetes, resulting in 15% increase in application performance.
             - Contributed to the development of 5,000+ GCP projects (GTO CSATCK, ICDM Core) using Compute Engine, Cloud Storage, & Kubernetes over 3 years, driving business growth & innovation.
-            - Scheduled and automated over 10 critical tasks like creating swap memory across a multi-cloud environment using crontab, improving operational efficiency.
+            - Scheduled and automated over 10 critical tasks like creating swap memory across a multi-cloud environment using cronjobs, improving operational efficiency.
             - Provided support for over 4000 Linux and Windows servers in a data center environment, utilizing Zabbix, Alert Site, ASM, and Nagios for monitoring and alerting.
             - Successfully governed 30+ AWS/GCP services (EC2, GKE, IAM, etc.) for over 50k VMs, maximizing performance and minimizing downtime. Critical programs now function more efficiently.
-            - Monitored health checks of 1000's VM's in AWS, GCP using CloudWatch, Grafana, and Nagios.
+            - Monitored health checks of 1000s of VMs in AWS, GCP using CloudWatch, Grafana, and Nagios.
             - Troubleshooted various server connectivity issues, including configuration errors, host unavailability using the server console called IMM (Integrated management Module).
             - Installed and configured Apache2, Nginx, and Tomcat web servers, established connections to databases and other systems, and domains.
             - Consistently met or exceeded SLAs for P1 incidents over the past year, demonstrating a 92% SLA adherence rate, while achieving a 10% reduction in Mean Time to Resolution in accordance with ITIL best practices.
