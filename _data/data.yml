@@ -125,7 +125,6 @@ experiences:
             - Operated 4000+ physical and 15000+ virtual servers across AWS & GCP for 3 years, ensuring high availability, driving cost savings, and enhancing operational efficiency.
             - Maintaining vCenter virtual servers, creating virtual machine templates, and troubleshooting issues related to VMotion, snapshots, and clones.
             - Orchestrated the management of 20000+ ESX servers, leveraging VMware features such as VMotion, Storage VMotion, HA, DRS, cloning, and snapshotting to ensure high availability and optimize resource utilization. 
-            - Migrated virtual machines by VMotion. Used templates and clones for VM deployment.
             - Performing Server backups via TSM(Tivoli Storage Manager) using a dedicated Technology called NAS (Network Attached Storage).
             - worked on the Informix database outage issues and troubleshooting them by restarting.
             - Resolving problem tickets based on severity, providing justified Root Cause Analysis.
